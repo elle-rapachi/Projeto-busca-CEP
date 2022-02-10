@@ -1,0 +1,1 @@
+Esse projeto visa utulizar uma API (ViaCEP) com o Python para consultar um endereço pelo CEP.
